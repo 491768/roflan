@@ -1,3 +1,4 @@
+print("Enter any number")
 a=(input())
 a=int(a)
 b=(a+1)
